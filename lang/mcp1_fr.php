@@ -36,7 +36,8 @@ $GLOBALS[$GLOBALS['idx_lang']] = array(
 	// R
 	'reglages_interface' => 'Reglages interface',
 	'reglages_site_public' => 'Reglages site public',
-
+	'rubrique_accueil' => 'Rubrique qui constitue la page d\'accueiil',
+	
 	// T
 	'titre_page_configurer_mcp1' => 'Configuration du Pack',
 );
