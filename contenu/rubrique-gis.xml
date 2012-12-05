@@ -1,5 +1,6 @@
 <composition>
-        <nom>Rubrique Gis</nom>
+        <nom>Article Gis</nom>
 
-        <description>Affiche une carte gis</description>
+        <description>Affiche une carte gis avec les éléments gis de l'article</description>
+        <branche type="article" composition="gis" />
 </composition>
