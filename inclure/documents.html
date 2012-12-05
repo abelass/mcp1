@@ -1,8 +1,10 @@
 [(#REM) Portfolio : album d'images ]
+
+djghjfghjfgh
 <B_documents_portfolio>
 <div class="documents documents_portfolio" id="documents_portfolio">
 	<h2 class="h2"><:medias:info_portfolio:></h2>
-	<BOUCLE_documents_portfolio(DOCUMENTS) {id_article?}{id_rubrique?}{id_produit?}{mode?}{extension IN png,jpg,gif} {par num titre, date}{vu=non}>[
+	<BOUCLE_documents_portfolio(DOCUMENTS) {id_article?}{id_rubrique?}{id_produit?}{mode?}{extension IN png,jpg,gif} {par num titre, date}{tout}>[
 	<a href="(#FICHIER|image_reduire{1500,*}|extraire_attribut{src})"
 		 type="#MIME_TYPE"
 		 rel="documents_portfolio[-a(#ID_ARTICLE)][-r(#ID_RUBRIQUE)]"
@@ -32,4 +34,3 @@
 	</ul>
 	</div>
 </B_documents_joints>
-
