@@ -7,7 +7,7 @@ $GLOBALS[$GLOBALS['idx_lang']] = array(
 
 	// M
 	'mcp1_description' => 'Pack basique ',
-	'mcp1_nom' => 'My Chacra - Pack basique',
+	'mcp1_nom' => 'Web Simple - Pack Start',
 	'mcp1_slogan' => 'Un premier site',
 );
 
