@@ -1,8 +1,8 @@
 <paquet
 	prefix="mcp1"
 	categorie="outil"
-	version="0.2.5"
-	etat="dev"
+	version="0.3.0"
+	etat="stable"
 	compatibilite="[3.0.1;3.0.*]"
 	logo="prive/themes/spip/images/mcp1-64.png"
 >
